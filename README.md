@@ -5,7 +5,7 @@
 
 ## Here you are going to find
 
-- [Minimalistic symmetric difference tool](http://a0th.github.io/symmetric_diff/symmetric_diff.html)
 - [My plotly extension package](https://github.com/a0th/plotly)
 - [Pandas Group-Rolling tutorial](http://a0th.github.io/rolling/rolling.html)
 - [Pandera tutorial](http://a0th.github.io/pandera/pandera_tutorial.html)
+- [Minimalistic symmetric difference tool](http://a0th.github.io/symmetric_diff/symmetric_diff.html)
